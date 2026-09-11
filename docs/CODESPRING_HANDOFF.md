@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Package must specify WP/requirements/objective/non-goals/dependencies/governing+task docs/subsystem owner/Unreal targets/acceptance/Gauntlet/migration. Sync durable docs + active context into `Docs/XYRA`; do not force Ludus to ingest the whole corpus per task. Use `feature/STARHEIRS-WP-XXXX`, Git/LFS for binary Unreal assets, exclude generated folders. Ludus evidence is reviewed by XYRA before develop→staging→main.
